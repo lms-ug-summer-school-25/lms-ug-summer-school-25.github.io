@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+The summer school is organised by the [Department of Mathematical Sciences](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/), University of Bath.
