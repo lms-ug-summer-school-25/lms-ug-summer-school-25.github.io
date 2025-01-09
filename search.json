@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "speakers.html",
-    "href": "speakers.html",
-    "title": "Speakers",
-    "section": "",
-    "text": "Here you will eventually find a list of speakers and their abstracts."
-  },
-  {
-    "objectID": "programme.html",
-    "href": "programme.html",
-    "title": "Programme",
-    "section": "",
-    "text": "This page will contain the programme."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
@@ -42,11 +28,11 @@
     "text": "Funding bodies and sponsorship\nThe Summer School is generously supported by the London Mathematical Society."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "programme.html",
+    "href": "programme.html",
+    "title": "Programme",
     "section": "",
-    "text": "About this site"
+    "text": "This page will contain the programme."
   },
   {
     "objectID": "local.html",
@@ -68,6 +54,20 @@
     "title": "Local information",
     "section": "Catering",
     "text": "Catering\nAll meals (breakfast, lunch and dinner) will be provided as well as tea, coffee and biscuit breaks throughout the day.\nThe campus includes a shop which will provide all additional food and any essentials."
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Here you will eventually find a list of speakers and their abstracts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The summer school is organised by the Department of Mathematical Sciences, University of Bath."
   },
   {
     "objectID": "registration.html",
