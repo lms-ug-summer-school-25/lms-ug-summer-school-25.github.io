@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "LMS Undergraduate Summer School 2025"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - speakers.qmd
+      - programme.qmd
+      - registration.qmd
+      - text: Local information
+        menu:
+          - text: Accommodation
+            href: local.qmd#accommodation
+          - text: Catering
+            href: local.qmd#catering
+      - about.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+

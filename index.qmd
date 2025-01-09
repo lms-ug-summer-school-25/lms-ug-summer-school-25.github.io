@@ -1,0 +1,48 @@
+---
+title: "Welcome"
+
+---
+
+The LMS Undergraduate Summer School will take place at the University of Bath, **16 - 24 July 2025**. 
+
+
+The LMS Undergraduate Summer Schools is a two-week course, which is held every summer at a UK university. The aim is to introduce modern mathematics to the best UK undergraduates who will enter their final year the following autumn, and encourage them to think about an academic career in maths. The LMS Undergraduate Summer School consists of a combination of short lecture courses with problem-solving sessions and colloquium-style talks from leading mathematicians. 50 places are available to students per year.
+
+
+For more information about LMS Summer Schools please contact [lmssummerschool@lms.ac.uk](mailto:lmssummerschool@lms.ac.uk) or visit the [London Mathematical Society Summer School](https://www.lms.ac.uk/events/lms-summer-schools) webpage.
+
+
+## Speakers
+
+This is a preliminary list of speakers and will still be updated.
+
+| Minicourse  Lecturers	| Colloquium Speakers |
+|----|----|
+| Perla Sousi (Cambridge) |	Ian Leary (Southampton)|
+|Ian Griffiths (Oxford)	| Ben Green (Oxford)| 
+| Martin Speight (Leeds)|Euan Spence (Bath)|
+| | Dan Lawson (Bristol) |
+| | 	Louise Dyson (Warwick)|
+| |	Francesca Tripaldi (Leeds)|
+
+
+## Local organisers
+
+* Johannes Nordstrom (Lead) 
+* James Davenport
+* Vangelis Evangelou
+* Marcel Ortgiese
+* Phil Trinh
+
+
+<!-- |Organising committee|
+|---|
+|Johannes Nordstrom (Lead)|
+|James Davenport|
+|Vangelis Evangelou|
+|Marcel Ortgiese|
+|Phil Trinh|-->
+
+## Funding bodies and sponsorship
+
+The Summer School is generously supported by the London Mathematical Society.
