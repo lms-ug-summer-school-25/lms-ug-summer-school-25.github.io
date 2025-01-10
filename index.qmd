@@ -18,12 +18,12 @@ This is a preliminary list of speakers and will still be updated.
 
 | Minicourse  Lecturers	| Colloquium Speakers |
 |----|----|
-| Perla Sousi (Cambridge) |	Ian Leary (Southampton)|
-|Ian Griffiths (Oxford)	| Ben Green (Oxford)| 
-| Martin Speight (Leeds)|Euan Spence (Bath)|
-| | Dan Lawson (Bristol) |
-| | 	Louise Dyson (Warwick)|
-| |	Francesca Tripaldi (Leeds)|
+| Ian Griffiths (Oxford)  |	Ben Green (Oxford)|
+| Ailsa Keating (Cambridge)	| Dan Lawson (Bristol)| 
+| Josh Shelton (St Andrews) |Ian Leary (Southampton)|
+| Martin Speight (Leeds)|  Euan Spence (Bath)|
+| Perla Sousi (Cambridge)| Francesca Tripaldi (Leeds)	|
+| Panayiota Touloupou (Birmingham) |	|
 
 
 ## Local organisers
