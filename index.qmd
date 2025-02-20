@@ -33,7 +33,7 @@ This is a preliminary list of speakers and will still be updated.
 * Marcel Ortgiese
 * Phil Trinh
 
-Contact the organisers by emailing lms-summer-school *at* bath.ac.uk.
+Contact the organisers by emailing [lms-summer-school *at* bath.ac.uk](mailto:lms-summer-school@bath.ac.uk).
 
 <!-- |Organising committee|
 |---|
