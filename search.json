@@ -1,5 +1,68 @@
 [
   {
+    "objectID": "local.html",
+    "href": "local.html",
+    "title": "Local information",
+    "section": "",
+    "text": "Students will be provided with on campus accommodation."
+  },
+  {
+    "objectID": "local.html#accommodation",
+    "href": "local.html#accommodation",
+    "title": "Local information",
+    "section": "",
+    "text": "Students will be provided with on campus accommodation."
+  },
+  {
+    "objectID": "local.html#catering",
+    "href": "local.html#catering",
+    "title": "Local information",
+    "section": "Catering",
+    "text": "Catering\nAll meals (breakfast, lunch and dinner) will be provided as well as tea, coffee and biscuit breaks throughout the day.\nThe campus includes a shop which will provide all additional food and any essentials."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The summer school is organised by the Department of Mathematical Sciences, University of Bath.\nThe Department of Mathematical Sciences has over 70 academic staff from all areas of Mathematics. The Department research divides itself into six major groupings (Algebra and Geometry, Analysis, Applied and Interdisciplinary Mathematics, Numerical Analysis and Data Science, Probability, and Statistics). The Department is also home to the EPSRC Centre for Doctoral Training SAMBa (Statistical Applied Mathematics at Bath) and the Institute for Mathematical Innovation. Our department currently holds an Athena SWAN Gold Award.\nContact the organisers by emailing: lms-summer-school `at’ bath.ac.uk"
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Here you will eventually find a list of speakers and their abstracts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "The LMS Undergraduate Summer School will take place at the University of Bath, 14 - 25 July 2025.\nThe LMS Undergraduate Summer Schools is a two-week course, which is held every summer at a UK university. The aim is to introduce modern mathematics to the best UK undergraduates who will enter their final year the following autumn, and encourage them to think about an academic career in maths. The LMS Undergraduate Summer School consists of a combination of short lecture courses with problem-solving sessions and colloquium-style talks from leading mathematicians. 50 places are available to students per year.\nFor more information about the history of LMS Summer Schools please visit the London Mathematical Society Summer School webpage.\nFor information on how to participate, see the registration page."
+  },
+  {
+    "objectID": "index.html#speakers",
+    "href": "index.html#speakers",
+    "title": "Welcome",
+    "section": "Speakers",
+    "text": "Speakers\nThis is a preliminary list of speakers and will still be updated.\n\n\n\nMinicourse Lecturers\nColloquium Speakers\n\n\n\n\nIan Griffiths (Oxford)\nBen Green (Oxford)\n\n\nAilsa Keating (Cambridge)\nEmma Horton (Warwick)\n\n\nJosh Shelton (St Andrews)\nDan Lawson (Bristol)\n\n\nMartin Speight (Leeds)\nIan Leary (Southampton)\n\n\nPerla Sousi (Cambridge)\nEuan Spence (Bath)\n\n\nPanayiota Touloupou (Birmingham)\nFrancesca Tripaldi (Leeds)"
+  },
+  {
+    "objectID": "index.html#local-organisers",
+    "href": "index.html#local-organisers",
+    "title": "Welcome",
+    "section": "Local organisers",
+    "text": "Local organisers\n\nJohannes Nordstrom (Lead)\nJames Davenport\nVangelis Evangelou\nMarcel Ortgiese\nPhil Trinh\n\nContact the organisers by emailing lms-summer-school at bath.ac.uk."
+  },
+  {
+    "objectID": "index.html#funding-bodies-and-sponsorship",
+    "href": "index.html#funding-bodies-and-sponsorship",
+    "title": "Welcome",
+    "section": "Funding bodies and sponsorship",
+    "text": "Funding bodies and sponsorship\nThe Summer School is generously supported by the London Mathematical Society and the Fondation Liber."
+  },
+  {
     "objectID": "programme.html",
     "href": "programme.html",
     "title": "Programme",
@@ -40,68 +103,5 @@
     "title": "Registration",
     "section": "Criteria for Nominations",
     "text": "Criteria for Nominations\nTo achieve an inclusive and cooperative working atmosphere, each LMS Undergraduate Summer School is usually limited to 50 in-person participants, so the organisers will need to be highly selective. Indeed a high level of ability and enthusiasm for mathematics is essential to enjoy and benefit from the LMS Undergraduate Summer School.\nParticipation of women students in the LMS Undergraduate Summer School is particularly important as there is a recognised lack of women continuing on to postgraduate study. To this end UK Institutions are asked to nominate both female and male students."
-  },
-  {
-    "objectID": "speakers.html",
-    "href": "speakers.html",
-    "title": "Speakers",
-    "section": "",
-    "text": "Here you will eventually find a list of speakers and their abstracts."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The summer school is organised by the Department of Mathematical Sciences, University of Bath.\nThe Department of Mathematical Sciences has over 70 academic staff from all areas of Mathematics. The Department research divides itself into six major groupings (Algebra and Geometry, Analysis, Applied and Interdisciplinary Mathematics, Numerical Analysis and Data Science, Probability, and Statistics). The Department is also home to the EPSRC Centre for Doctoral Training SAMBa (Statistical Applied Mathematics at Bath) and the Institute for Mathematical Innovation. Our department currently holds an Athena SWAN Gold Award.\nContact the organisers by emailing: lms-summer-school `at’ bath.ac.uk"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "The LMS Undergraduate Summer School will take place at the University of Bath, 14 - 25 July 2025.\nThe LMS Undergraduate Summer Schools is a two-week course, which is held every summer at a UK university. The aim is to introduce modern mathematics to the best UK undergraduates who will enter their final year the following autumn, and encourage them to think about an academic career in maths. The LMS Undergraduate Summer School consists of a combination of short lecture courses with problem-solving sessions and colloquium-style talks from leading mathematicians. 50 places are available to students per year.\nFor more information about the history of LMS Summer Schools please visit the London Mathematical Society Summer School webpage.\nFor information on how to participate, see the registration page."
-  },
-  {
-    "objectID": "index.html#speakers",
-    "href": "index.html#speakers",
-    "title": "Welcome",
-    "section": "Speakers",
-    "text": "Speakers\nThis is a preliminary list of speakers and will still be updated.\n\n\n\nMinicourse Lecturers\nColloquium Speakers\n\n\n\n\nIan Griffiths (Oxford)\nBen Green (Oxford)\n\n\nAilsa Keating (Cambridge)\nEmma Horton (Warwick)\n\n\nJosh Shelton (St Andrews)\nDan Lawson (Bristol)\n\n\nMartin Speight (Leeds)\nIan Leary (Southampton)\n\n\nPerla Sousi (Cambridge)\nEuan Spence (Bath)\n\n\nPanayiota Touloupou (Birmingham)\nFrancesca Tripaldi (Leeds)"
-  },
-  {
-    "objectID": "index.html#local-organisers",
-    "href": "index.html#local-organisers",
-    "title": "Welcome",
-    "section": "Local organisers",
-    "text": "Local organisers\n\nJohannes Nordstrom (Lead)\nJames Davenport\nVangelis Evangelou\nMarcel Ortgiese\nPhil Trinh\n\nContact the organisers by emailing lms-summer-school at bath.ac.uk."
-  },
-  {
-    "objectID": "index.html#funding-bodies-and-sponsorship",
-    "href": "index.html#funding-bodies-and-sponsorship",
-    "title": "Welcome",
-    "section": "Funding bodies and sponsorship",
-    "text": "Funding bodies and sponsorship\nThe Summer School is generously supported by the London Mathematical Society."
-  },
-  {
-    "objectID": "local.html",
-    "href": "local.html",
-    "title": "Local information",
-    "section": "",
-    "text": "Students will be provided with on campus accommodation."
-  },
-  {
-    "objectID": "local.html#accommodation",
-    "href": "local.html#accommodation",
-    "title": "Local information",
-    "section": "",
-    "text": "Students will be provided with on campus accommodation."
-  },
-  {
-    "objectID": "local.html#catering",
-    "href": "local.html#catering",
-    "title": "Local information",
-    "section": "Catering",
-    "text": "Catering\nAll meals (breakfast, lunch and dinner) will be provided as well as tea, coffee and biscuit breaks throughout the day.\nThe campus includes a shop which will provide all additional food and any essentials."
   }
 ]
