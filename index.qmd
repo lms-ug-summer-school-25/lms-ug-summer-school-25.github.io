@@ -11,7 +11,7 @@ The LMS Undergraduate Summer Schools is a two-week course, which is held every s
 For more information about the history of LMS Summer Schools please visit the [London Mathematical Society Summer School](https://www.lms.ac.uk/events/lms-summer-schools) webpage.
 
 For information on how to participate, see the [registration page](registration.qmd). The deadline for nominations is 
-<p style="text-align: center;">**30 April 2025**.</p> 
+**30 April 2025**. 
 
 ## Speakers
 
