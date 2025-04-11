@@ -3,3 +3,17 @@ title: "Speakers"
 ---
 
 Here you will eventually find a list of speakers and their abstracts.
+
+## Minicourses
+
+
+```{=html}
+<table>
+    <tbody>
+            <tr>
+                <td><b>Ailsa Keating<b><td>
+                <td><img scr="keating.JPG"></td>
+            </tr>
+    </tbody>
+</table>
+```
