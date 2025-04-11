@@ -4,16 +4,131 @@ title: "Speakers"
 
 Here you will eventually find a list of speakers and their abstracts.
 
-## Minicourses
+## Minicourse speakers
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Ian Griffiths| [Homepage](https://people.maths.ox.ac.uk/griffit4/) |
+|----|----|
+|Research interests:||
+|Title:||
+|Abstract: | |
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](keating.JPG){width="150"}-->
+:::
+::::
 
 
-```{=html}
-<table>
-    <tbody>
-            <tr>
-                <td><b>Ailsa Keating<b><td>
-                <td><img scr="keating.JPG"></td>
-            </tr>
-    </tbody>
-</table>
-```
+:::: {.columns}
+::: {.column width="70%"}
+
+|Ailsa Keating|[Homepage](https://sites.google.com/view/ailsakeating)  | 
+|----|----|
+|Research interests:|Geometry and topology, in particular symplectic geometry and homological mirror symmetry.|
+|Title:||
+|Abstract: ||
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+![](keating.JPG){width="150"}
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Joshua Shelton| [Homepage](https://www.st-andrews.ac.uk/mathematics-statistics/people/jas45/) |
+|----|----|
+|Research interests:||
+|Title:||
+|Abstract: | |
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](keating.JPG){width="150"}-->
+:::
+::::
+
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Martin Speight| [Homepage](https://cp1lump.github.io/) |
+|----|----|
+|Research interests:||
+|Title:||
+|Abstract: | |
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](keating.JPG){width="150"}-->
+:::
+::::
+
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Perla Sousi| [Homepage](https://www.dpmms.cam.ac.uk/~ps422/) |
+|----|----|
+|Research interests:|Random walks, Brownian motion, mixing times of Markov chains, Poisson Brownian motions, rearrangement inequalities.|
+|Title:||
+|Abstract: | |
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](keating.JPG){width="150"}-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Panayiota Touloupou| [Homepage](https://www.birmingham.ac.uk/staff/profiles/maths/touloupou-panayiota) |
+|----|----|
+|Research interests:|Statistical methodology and computational statistics|
+|Title:|
+|Abstract: | |
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](keating.JPG){width="150"}-->
+:::
+::::
+
+
+
+## Colloquium speakers
