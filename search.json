@@ -28,8 +28,8 @@
     "text": "The summer school is organised by the Department of Mathematical Sciences, University of Bath.\nThe Department of Mathematical Sciences has over 70 academic staff from all areas of Mathematics. The Department research divides itself into six major groupings (Algebra and Geometry, Analysis, Applied and Interdisciplinary Mathematics, Numerical Analysis and Data Science, Probability, and Statistics). The Department is also home to the EPSRC Centre for Doctoral Training SAMBa (Statistical Applied Mathematics at Bath) and the Institute for Mathematical Innovation. Our department currently holds an Athena SWAN Gold Award.\nContact the organisers by emailing: lms-summer-school `at’ bath.ac.uk"
   },
   {
-    "objectID": "speakers.html",
-    "href": "speakers.html",
+    "objectID": "speakers2.html",
+    "href": "speakers2.html",
     "title": "Speakers",
     "section": "",
     "text": "Here you will eventually find a list of speakers and their abstracts."
@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "The LMS Undergraduate Summer School will take place at the University of Bath, 14 - 25 July 2025.\nThe LMS Undergraduate Summer Schools is a two-week course, which is held every summer at a UK university. The aim is to introduce modern mathematics to the best UK undergraduates who will enter their final year the following autumn, and encourage them to think about an academic career in maths. The LMS Undergraduate Summer School consists of a combination of short lecture courses with problem-solving sessions and colloquium-style talks from leading mathematicians. 50 places are available to students per year.\nFor more information about the history of LMS Summer Schools please visit the London Mathematical Society Summer School webpage.\nFor information on how to participate, see the registration page."
+    "text": "The LMS Undergraduate Summer School will take place at the University of Bath, 14 - 25 July 2025.\nThe LMS Undergraduate Summer Schools is a two-week course, which is held every summer at a UK university. The aim is to introduce modern mathematics to the best UK undergraduates who will enter their final year the following autumn, and encourage them to think about an academic career in maths. The LMS Undergraduate Summer School consists of a combination of short lecture courses with problem-solving sessions and colloquium-style talks from leading mathematicians. 50 places are available to students per year.\nFor more information about the history of LMS Summer Schools please visit the London Mathematical Society Summer School webpage.\n30 April 2025."
   },
   {
     "objectID": "index.html#speakers",
@@ -61,6 +61,13 @@
     "title": "Welcome",
     "section": "Funding bodies and sponsorship",
     "text": "Funding bodies and sponsorship\nThe Summer School is generously supported by the London Mathematical Society and the Liber Stiftung (Liber Foundation)."
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Here you will eventually find a list of speakers and their abstracts."
   },
   {
     "objectID": "programme.html",
