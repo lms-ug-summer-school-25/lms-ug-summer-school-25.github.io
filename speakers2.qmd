@@ -4,7 +4,7 @@ title: "Speakers"
 
 Here you will eventually find a list of speakers and their abstracts.
 
-## Minicourse speakers
+## Minicourses
 
 :::: {.columns}
 ::: {.column width="70%"}
@@ -22,7 +22,7 @@ Here you will eventually find a list of speakers and their abstracts.
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-![](griffiths){width="150"}
+![](griffiths.jpg){width="150"}
 :::
 ::::
 
@@ -52,8 +52,8 @@ Here you will eventually find a list of speakers and their abstracts.
 
 |Joshua Shelton| [Homepage](https://www.st-andrews.ac.uk/mathematics-statistics/people/jas45/) |
 |----|----|
-|Research interests:||
-|Title:||
+|Research interests:|Matched asymptotic expansions and the Stokes phenomenon in asymptotic analysis; nonlinear free boundary problems such as water waves|
+|Title:|Resummation of divergent series expansions and the Stokes phenomenon|
 |Abstract: | |
 
 : {tbl-colwidths="[25,75]"}
@@ -74,7 +74,7 @@ Here you will eventually find a list of speakers and their abstracts.
 |Martin Speight| [Homepage](https://cp1lump.github.io/) |
 |----|----|
 |Research interests:||
-|Title:||
+|Title:|TBA|
 |Abstract: | |
 
 : {tbl-colwidths="[25,75]"}
@@ -95,7 +95,7 @@ Here you will eventually find a list of speakers and their abstracts.
 |Perla Sousi| [Homepage](https://www.dpmms.cam.ac.uk/~ps422/) |
 |----|----|
 |Research interests:|Random walks, Brownian motion, mixing times of Markov chains, Poisson Brownian motions, rearrangement inequalities.|
-|Title:||
+|Title:|TBA|
 |Abstract: | |
 
 : {tbl-colwidths="[25,75]"}
@@ -131,4 +131,104 @@ Here you will eventually find a list of speakers and their abstracts.
 
 
 
-## Colloquium speakers
+## Colloquia
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Ben Green FRS| [Homepage](https://people.maths.ox.ac.uk/greenbj/) |
+|----|----|
+|Research interests:||
+|Title:||
+|Abstract: | |
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](griffiths.jpg){width="150"}-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Franscesca Tripaldi| [Homepage](https://eps.leeds.ac.uk/maths/staff/15258/dr-f-tripaldi) |
+|----|----|
+|Research interests:||
+|Title:||
+|Abstract: | |
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](griffiths.jpg){width="150"}-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Emma Horton| [Homepage](https://sites.google.com/view/emmahorton/home) |
+|----|----|
+|Research interests:||
+|Title:||
+|Abstract: | |
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](griffiths.jpg){width="150"}-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Euan Spence| [Homepage](https://people.bath.ac.uk/eas25/) |
+|----|----|
+|Research interests:||
+|Title:|Numerical analysis of wave scattering problems|
+|Abstract: | |
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](griffiths.jpg){width="150"}-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Ian Leary| [Homepage](https://www.southampton.ac.uk/people/5x7v5y/professor-ian-leary) |
+|----|----|
+|Research interests:||
+|Title:||
+|Abstract: | |
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](griffiths.jpg){width="150"}-->
+:::
+::::
