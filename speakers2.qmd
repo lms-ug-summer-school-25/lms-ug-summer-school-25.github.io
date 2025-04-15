@@ -62,7 +62,7 @@ title: "Speakers"
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-![](shelton.jpg){width="150"}-->
+![](shelton.jpg){width="150"}
 :::
 ::::
 
