@@ -1,5 +1,218 @@
+
 ---
 title: "Speakers"
 ---
 
-Here you will eventually find a list of speakers and their abstracts.
+
+## Minicourses
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Ian Griffiths| [Homepage](https://people.maths.ox.ac.uk/griffit4/) |
+|----|----|
+|Research interests:|Industrial fluid mechanics challenges, including water filtration and purification, reactive decontamination, and glass manufacture.|
+|Title:|Mathematical Physiology|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+![](griffiths.jpg){width="150"}
+:::
+::::
+
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Ailsa Keating|[Homepage](https://sites.google.com/view/ailsakeating)  | 
+|----|----|
+|Research interests:|Geometry and topology, in particular symplectic geometry and homological mirror symmetry.|
+|Title:|TBA|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+![](keating.JPG){width="150"}
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Joshua Shelton| [Homepage](https://www.st-andrews.ac.uk/mathematics-statistics/people/jas45/) |
+|----|----|
+|Research interests:|Matched asymptotic expansions and the Stokes phenomenon in asymptotic analysis; nonlinear free boundary problems such as water waves|
+|Title:|Resummation of divergent series expansions and the Stokes phenomenon|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+![](shelton.jpg){width="150"}
+:::
+::::
+
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Martin Speight| [Homepage](https://cp1lump.github.io/) |
+|----|----|
+|Title:|TBA|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](keating.JPG){width="150"}-->
+:::
+::::
+
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Perla Sousi| [Homepage](https://www.dpmms.cam.ac.uk/~ps422/) |
+|----|----|
+|Research interests:|Random walks, Brownian motion, mixing times of Markov chains, Poisson Brownian motions, rearrangement inequalities.|
+|Title:|TBA|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](keating.JPG){width="150"}-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Panayiota Touloupou| [Homepage](https://www.birmingham.ac.uk/staff/profiles/maths/touloupou-panayiota) |
+|----|----|
+|Research interests:|Statistical methodology and computational statistics|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](keating.JPG){width="150"}-->
+:::
+::::
+
+
+
+## Colloquia
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Ben Green FRS| [Homepage](https://people.maths.ox.ac.uk/greenbj/) |
+|----|----|
+|Research interests:|Additive combinatorics|
+|Title:|TBA|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](griffiths.jpg){width="150"}-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Franscesca Tripaldi| [Homepage](https://eps.leeds.ac.uk/maths/staff/15258/dr-f-tripaldi) |
+|----|----|
+|Title:|TBA|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](griffiths.jpg){width="150"}-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Emma Horton| [Homepage](https://sites.google.com/view/emmahorton/home) |
+|----|----|
+|Title:|TBA|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](griffiths.jpg){width="150"}-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Euan Spence| [Homepage](https://people.bath.ac.uk/eas25/) |
+|----|----|
+|Title:|Numerical analysis of wave scattering problems|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](griffiths.jpg){width="150"}-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
+|Ian Leary| [Homepage](https://www.southampton.ac.uk/people/5x7v5y/professor-ian-leary) |
+|----|----|
+|Research interests:|Geometric group theory, cohomology of groups, classifying spaces for families of subgroups|
+|Title:|TBA|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](griffiths.jpg){width="150"}-->
+:::
+::::
