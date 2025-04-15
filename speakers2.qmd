@@ -2,7 +2,6 @@
 title: "Speakers"
 ---
 
-Here you will eventually find a list of speakers and their abstracts.
 
 ## Minicourses
 
@@ -63,7 +62,7 @@ Here you will eventually find a list of speakers and their abstracts.
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-<!--![](keating.JPG){width="150"}-->
+![](shelton.jpg){width="150"}-->
 :::
 ::::
 
@@ -138,7 +137,7 @@ Here you will eventually find a list of speakers and their abstracts.
 
 |Ben Green FRS| [Homepage](https://people.maths.ox.ac.uk/greenbj/) |
 |----|----|
-|Research interests:||
+|Research interests:|Additive combinatorics|
 |Title:||
 |Abstract: | |
 
@@ -218,7 +217,7 @@ Here you will eventually find a list of speakers and their abstracts.
 
 |Ian Leary| [Homepage](https://www.southampton.ac.uk/people/5x7v5y/professor-ian-leary) |
 |----|----|
-|Research interests:||
+|Research interests:|Geometric group theory, cohomology of groups, classifying spaces for families of subgroups|
 |Title:||
 |Abstract: | |
 
