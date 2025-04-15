@@ -11,8 +11,8 @@ Here you will eventually find a list of speakers and their abstracts.
 
 |Ian Griffiths| [Homepage](https://people.maths.ox.ac.uk/griffit4/) |
 |----|----|
-|Research interests:||
-|Title:||
+|Research interests:|Industrial fluid mechanics challenges, including water filtration and purification, reactive decontamination, and glass manufacture.|
+|Title:|Mathematical Physiology|
 |Abstract: | |
 
 : {tbl-colwidths="[25,75]"}
@@ -22,7 +22,7 @@ Here you will eventually find a list of speakers and their abstracts.
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-<!--![](keating.JPG){width="150"}-->
+![](griffiths){width="150"}
 :::
 ::::
 
@@ -33,7 +33,7 @@ Here you will eventually find a list of speakers and their abstracts.
 |Ailsa Keating|[Homepage](https://sites.google.com/view/ailsakeating)  | 
 |----|----|
 |Research interests:|Geometry and topology, in particular symplectic geometry and homological mirror symmetry.|
-|Title:||
+|Title:|TBA|
 |Abstract: ||
 
 : {tbl-colwidths="[25,75]"}
