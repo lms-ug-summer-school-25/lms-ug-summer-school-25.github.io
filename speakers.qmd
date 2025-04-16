@@ -70,7 +70,8 @@ title: "Speakers"
 
 |Martin Speight| [Homepage](https://cp1lump.github.io/) |
 |----|----|
-|Title:|TBA|
+|Research interests:|Applications of differential geometry to high energy and condensed matter physics, particularly the geometry of moduli spaces of topological solitons|
+|Title:|Topological solitons|
 
 : {tbl-colwidths="[25,75]"}
 
@@ -79,7 +80,7 @@ title: "Speakers"
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-<!--![](keating.JPG){width="150"}-->
+![](speight.jpg){width="150"}
 :::
 ::::
 
