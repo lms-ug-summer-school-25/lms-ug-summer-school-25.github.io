@@ -110,6 +110,7 @@ title: "Speakers"
 |Panayiota Touloupou| [Homepage](https://www.birmingham.ac.uk/staff/profiles/maths/touloupou-panayiota) |
 |----|----|
 |Research interests:|Statistical methodology and computational statistics|
+|Title:|TBA|
 
 : {tbl-colwidths="[25,75]"}
 
@@ -186,6 +187,7 @@ title: "Speakers"
 
 |Euan Spence| [Homepage](https://people.bath.ac.uk/eas25/) |
 |----|----|
+|Research interests:|the interface between semiclassical analysis and numerical analysis of partial differential equations, in particular problems involving the scattering of acoustic and electromagnetic waves|
 |Title:|Numerical analysis of wave scattering problems|
 
 : {tbl-colwidths="[25,75]"}
@@ -195,7 +197,7 @@ title: "Speakers"
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-<!--![](griffiths.jpg){width="150"}-->
+![](spence.jpg){width="150"}
 :::
 ::::
 
