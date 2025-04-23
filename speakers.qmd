@@ -151,7 +151,8 @@ title: "Speakers"
 
 |Franscesca Tripaldi| [Homepage](https://eps.leeds.ac.uk/maths/staff/15258/dr-f-tripaldi) |
 |----|----|
-|Title:|TBA|
+|Research interests:|Analysis and geometry, in particular subcomplexes intrinsic to subRiemannian geometry and characterising the topology of minimal surfaces|
+|Title:|SubRiemannian geometry in real life: how to parallel park your car|
 
 : {tbl-colwidths="[25,75]"}
 
@@ -160,7 +161,7 @@ title: "Speakers"
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-<!--![](griffiths.jpg){width="150"}-->
+![](Tripaldi_photo.jpg){width="150"}
 :::
 ::::
 
@@ -207,7 +208,7 @@ title: "Speakers"
 |Ian Leary| [Homepage](https://www.southampton.ac.uk/people/5x7v5y/professor-ian-leary) |
 |----|----|
 |Research interests:|Geometric group theory, cohomology of groups, classifying spaces for families of subgroups|
-|Title:|TBA|
+|Title:|Recognising contractible spaces|
 
 : {tbl-colwidths="[25,75]"}
 
@@ -216,6 +217,6 @@ title: "Speakers"
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-<!--![](griffiths.jpg){width="150"}-->
+![](leary.jpg){width="150"}
 :::
 ::::
