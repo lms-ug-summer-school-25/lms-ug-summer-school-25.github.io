@@ -132,6 +132,7 @@ title: "Speakers"
 
 |Dan Lawson| [Homepage](https://people.maths.bris.ac.uk/~madjl/) |
 |----|----|
+|Research interests|Scalable methods for machine learning and statistical inference, with applications in genomics and reconstructing history|
 |Title:|Information in large data: Lessons from population genomics on relating mathematical models to algorithmic scaling|
 
 : {tbl-colwidths="[25,75]"}
@@ -141,7 +142,7 @@ title: "Speakers"
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-<!--![](griffiths.jpg){width="150"}-->
+![](dan.jpg){width="150"}
 :::
 ::::
 
