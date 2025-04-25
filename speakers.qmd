@@ -130,6 +130,24 @@ title: "Speakers"
 :::: {.columns}
 ::: {.column width="70%"}
 
+|Dan Lawson| [Homepage](https://people.maths.bris.ac.uk/~madjl/) |
+|----|----|
+|Title:|Information in large data: Lessons from population genomics on relating mathematical models to algorithmic scaling|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+<!--![](griffiths.jpg){width="150"}-->
+:::
+::::
+
+:::: {.columns}
+::: {.column width="70%"}
+
 |Ben Green FRS| [Homepage](https://people.maths.ox.ac.uk/greenbj/) |
 |----|----|
 |Research interests:|Additive combinatorics|
