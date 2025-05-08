@@ -151,8 +151,8 @@ title: "Speakers"
 
 |Ben Green FRS| [Homepage](https://people.maths.ox.ac.uk/greenbj/) |
 |----|----|
-|Research interests:|Additive combinatorics|
-|Title:|TBA|
+|Research interests:|Additive combinatorics and analytic number theory|
+|Title:|Fourier analysis in additive number theory, and its generalisations|
 
 : {tbl-colwidths="[25,75]"}
 
@@ -161,7 +161,7 @@ title: "Speakers"
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-<!--![](griffiths.jpg){width="150"}-->
+![](green.avig){width="150"}
 :::
 ::::
 
