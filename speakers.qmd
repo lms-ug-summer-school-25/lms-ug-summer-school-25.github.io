@@ -161,7 +161,7 @@ title: "Speakers"
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-![](green.avig){width="150"}
+![](green.avif){width="150"}
 :::
 ::::
 
