@@ -187,9 +187,11 @@ title: "Speakers"
 :::: {.columns}
 ::: {.column width="70%"}
 
-|Emma Horton| [Homepage](https://sites.google.com/view/emmahorton/home) |
+|Emma Horton| [Homepage](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/horton/) |
 |----|----|
-|Title:|TBA|
+|Research interests:|Stochastic modelling, including branching processes, growth-fragmentation, SDEs and sequential Monte Carlo, with a particular focus on applying these to real world applications. 
+|
+|Title:|Mathematics of radiation transport|
 
 : {tbl-colwidths="[25,75]"}
 
@@ -198,7 +200,7 @@ title: "Speakers"
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-<!--![](griffiths.jpg){width="150"}-->
+![]{horton.jpg){width="150"}
 :::
 ::::
 
