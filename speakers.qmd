@@ -200,7 +200,7 @@ title: "Speakers"
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-![]{horton.jpg){width="150"}
+![](horton.jpg){width="150"}
 :::
 ::::
 
