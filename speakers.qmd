@@ -110,7 +110,7 @@ title: "Speakers"
 |Panayiota Touloupou| [Homepage](https://www.birmingham.ac.uk/staff/profiles/maths/touloupou-panayiota) |
 |----|----|
 |Research interests:|Statistical methodology and computational statistics|
-|Title:|TBA|
+|Title:|Statistical inference for epidemic models|
 
 : {tbl-colwidths="[25,75]"}
 
@@ -119,7 +119,7 @@ title: "Speakers"
 <!-- Empty column for gap -->
 :::
 ::: {.column width="25%"}
-<!--![](keating.JPG){width="150"}-->
+![](touloupou.jpg){width="150"}
 :::
 ::::
 
