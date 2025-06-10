@@ -32,7 +32,7 @@ title: "Speakers"
 |Ailsa Keating|[Homepage](https://sites.google.com/view/ailsakeating)  | 
 |----|----|
 |Research interests:|Geometry and topology, in particular symplectic geometry and homological mirror symmetry.|
-|Title:|TBA|
+|Title:|Knot theory, knot practice|
 
 : {tbl-colwidths="[25,75]"}
 
