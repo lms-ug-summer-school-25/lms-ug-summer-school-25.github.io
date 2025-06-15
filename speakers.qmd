@@ -9,21 +9,7 @@ title: "Speakers"
 :::: {.columns}
 ::: {.column width="70%"}
 
-|Ian Griffiths| [Homepage](https://people.maths.ox.ac.uk/griffit4/) |
-|----|----|
-|Research interests:|Industrial fluid mechanics challenges, including water filtration and purification, reactive decontamination, and glass manufacture.|
-|Title:|Mathematical Physiology|
 
-: {tbl-colwidths="[25,75]"}
-
-:::
-:::{.column width="5%"}
-<!-- Empty column for gap -->
-:::
-::: {.column width="25%"}
-![](griffiths.jpg){width="150"}
-:::
-::::
 
 
 :::: {.columns}
