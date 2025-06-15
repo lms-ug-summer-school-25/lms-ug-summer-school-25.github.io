@@ -17,12 +17,12 @@ Nominations for 2025 have now closed. Successful applicants have been contacted.
 
 | Minicourse  Lecturers	| Colloquium Speakers |
 |----|----|
-| Ian Griffiths (Oxford)  |	Ben Green (Oxford)|
-| Ailsa Keating (Cambridge)	| Emma Horton (Warwick)| 
-| Josh Shelton (St Andrews) |Dan Lawson (Bristol)|
-| Martin Speight (Leeds)|  Ian Leary (Southampton)|
-| Perla Sousi (Cambridge)| Euan Spence (Bath)	|
-| Panayiota Touloupou (Birmingham) |	Francesca Tripaldi (Leeds)|
+|  Ailsa Keating (Cambridge) |	Ben Green (Oxford)|
+| Josh Shelton (St Andrews)	| Emma Horton (Warwick)| 
+| Martin Speight (Leeds) |Dan Lawson (Bristol)|
+| Perla Sousi (Cambridge)|  Ian Leary (Southampton)|
+| Panayiota Touloupou (Birmingham) | Euan Spence (Bath)	|
+|  |	Francesca Tripaldi (Leeds)|
 
 
 ## Local organisers
@@ -35,13 +35,6 @@ Nominations for 2025 have now closed. Successful applicants have been contacted.
 
 Contact the organisers by emailing [lms-summer-school *at* bath.ac.uk](mailto:lms-summer-school@bath.ac.uk).
 
-<!-- |Organising committee|
-|---|
-|Johannes Nordstrom (Lead)|
-|James Davenport|
-|Vangelis Evangelou|
-|Marcel Ortgiese|
-|Phil Trinh|-->
 
 ## Funding bodies and sponsorship
 
