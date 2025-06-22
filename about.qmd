@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-The summer school is organised by the [Department of Mathematical Sciences](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/), University of Bath.
+The summer school is organised by the [Department of Mathematical Sciences](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/) at the University of Bath, with generous support from the [London Mathematical Society](https://www.lms.ac.uk/) and the Liber Stiftung ([Liber Foundation](https://www.fundraiso.ch/sponsor/fondation-liber/)).
 
 The Department of Mathematical Sciences has over 70 academic staff from all areas of Mathematics. 
 The Department research divides itself into six major groupings (Algebra and Geometry,
