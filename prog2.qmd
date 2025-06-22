@@ -2,7 +2,7 @@
 title: "Programme (draft)"
 format: 
   html:
-    page-layout: full
+    page-layout: custom
 ---
 
 
