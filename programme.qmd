@@ -1,47 +1,121 @@
 ---
-title: "Programme"
+title: "Programme (draft)"
+format: 
+  html:
+    grid:
+      sidebar-width: 20px
+      margin-width: 20px
+      body-width: 1500px
+    page-layout: full
 ---
 
 
-The exact timings will be confirmed nearer the time.
+Details still to be confirmed.
 
-## Week 1
+All classes and talks take place in the Wolfson lecture room (4W 1.7) on the lower ground floor of building 4 West.
+
+```{=html}
+
+<style type="text/css">
+tr { height: 3.5em; }
+
+tr.toprow { height: 1.5em; }
+
+tr.toprow td { border-bottom: thin solid black; }
+
+td { text-align: center; }
+</style>
+
+<table leftmargin=10 cellspacing=0 cellpadding=5>
+<tr class="toprow">
+<td></td>
+<td>9.30-10.30</td>
+<td>10.30-11.00</td>
+<td>11.00-12.00</td>
+<td>12.00-13.30</td>
+<td>13.30-14.30</td>
+<td>14.30-15.30</td>
+<td>15.30-16.00</td>
+<td>16.15-17.15</td>
+<td>18.00-19.00</td>
+<td></td></tr>
+
+<tr><td>Sunday 13 July</td>
+<td></td> <td></td> <td></td> <td></td> <td colspan="2">Check-in from 15.00</td> <td></td>
+<td>Tea (4W Atrium)</td><td>Dinner (Lime tree)</td></tr>
+
+<tr><td>Monday 14 July</td>
+<td>Keating 1</td><td>Tea break</td><td>Keating 2</td>
+<td>Lunch (4W Atrium)</td>
+<td>Keating 3</td><td>Tea break</td><td>Keating 4</td>
+<td>Lawson</td><td>Dinner (Lime tree)</td></tr>
+
+<tr><td>Tuesday 15 July</td>
+<td>Keating 5</td><td>Tea break</td><td>Keating 6</td>
+<td>Lunch (outlets*)</td>
+<td>Touloupou 1</td><td>Tea break</td><td>Touloupou 2</td>
+<td>Green</td><td>Dinner (Lime tree)</td>
+<td>18.30-21.30<br>Outdoor games (Medical<br>centre sports field)</td></tr>
+
+<tr><td>Wednesday 16 July</td>
+<td>Touloupou 3</td><td>Tea break</td><td>Touloupou 4</td>
+<td>Lunch (outlets*)</td>
+<td>Touloupou 5</td><td>Tea break</td><td>Touloupou 6</td>
+<td>TBD</td><td>Pizza and board games<br>(Claverton rooms)</td>
+</tr>
+
+<tr><td>Thursday 17 July</td>
+<td>Sousi 1</td><td>Tea break</td><td>Sousi 2</td>
+<td>Lunch (4W Atrium)</td>
+<td>Sousi 3</td><td>Tea break</td><td>Sousi 4</td>
+<td>Tripaldi</td><td>Dinner (Lime tree)</td>
+</tr>
+
+<tr><td>Friday 18 July</td>
+<td>Sousi 5</td><td>Tea break</td><td>Sousi 6</td>
+<td>Lunch (outlets*)</td>
+<td colspan="3">14.15-16.15<br>Walking tour of Bath</td>
+<td>16.45-18.00<br>Roman Baths</td></tr>
 
 
-|Date | Morning | Afternoon |
-|---|---|---|
-|Sunday, 13 July | |  Arrival. Dinner will be provided |
-|Monday, 14 July| Ailsa Keating, Minicourse part 1 | Ailsa Keating, minicourse part 2|
-| |  | Dan Lawson, colloquium |
-|Tuesday, 15 July | Ailsa Keating, Minicourse part 1 | Panayiota Touloupou, minicourse part 1|
-| | | Ben Green, colloquium |
-|Wednesday, 16 July | Panayiota Touloupou, minicourse part 2 | Panayiota Touloupou, minicourse part 3 |
-| | | Talk tbc|
-|Thursday, 17 July | Perla Sousi, minicourse part 1| Perla Sousi, minicourse part 2 |
-| | | Franscesca Tripaldi, colloquium | 
-| Friday, 18 July | Perla Sousi, minicourse part 3 | Exploring Bath |
-| Saturday, 19 July | Excursion | Excursion |
-| Sunday, 20 July | Free time | Free time |
+<tr><td>Saturday 19 July</td>
+<td></td>
+<td colspan="4">10.30-15.30<br>Excursion to Avebury</td></tr>
+</tr>
 
+<tr><td>Monday 21 July</td>
+<td>Speight 1</td><td>Tea break</td><td>Speight 2</td>
+<td>Lunch (outlets*)</td>
+<td>Speight 3</td><td>Tea break</td><td>Speight 4</td>
+<td>Lawson</td><td>Dinner (Lime tree)</td></tr>
 
+<tr><td>Tuesday 22 July</td>
+<td>Speight 5</td><td>Tea break</td><td>Speight 6</td>
+<td>Lunch (4W Atrium)</td>
+<td>TBD 1</td><td>Tea break</td><td>TBD 2</td>
+<td>Green</td><td>Dinner (Lime tree)</td>
+</tr>
 
-## Week 2
+<tr><td>Wednesday 23 July</td>
+<td>TBD 3</td><td>Tea break</td><td>TBD 4</td>
+<td>Lunch (outlets*)</td>
+<td>TBD 5</td><td>Tea break</td><td>TBD 6</td>
+<td>PhD student talks</td><td>Dinner (Lime tree)</td>
+</tr>
 
-|Date | Morning | Afternoon |
-|---|---|---|
-|Monday, 21 July| Martin Speight, minicourse part 1 | Martin Speight, minicourse part 2 |
-| | | Emma Horton, colloquium |
-|Tuesday, 22 July | Martin Speight, minicourse part 3 | Ian Griffiths, minicourse part 1	|
-| |  | Euan Spence, colloquium |
-|Wednesday, 23 July |Ian Griffiths, minicourse part 2 | Ian Griffiths, minicourse part 3 |
-| | | Talk tbc |
-| Thursday, 24 July | Joshua Shelton, minicourse part 1 | Joshua Shelton, mincourse part 2 |
-| | |Ian Leary, colloquium |
-| Friday, 25 July | Joshua Shelton, minicourse part 3 | Departure after lunch |
+<tr><td>Thursday 24 July</td>
+<td>Shelton 1</td><td>Tea break</td><td>Shelton 2</td>
+<td>Lunch (outlets*)</td>
+<td>Shelton 3</td><td>Tea break</td><td>Shelton 4</td>
+<td>Tripaldi</td><td>Dinner (TBD)</td>
+</tr>
 
+<tr><td>Friday 25 July</td>
+<td>Shelton 5</td><td>Tea break</td><td>Shelton 6</td>
+<td>Lunch (outlets*)</td></tr>
 
+</table>
 
+```
 
-
-
-
+* Use vouchers in any outlet on campus
