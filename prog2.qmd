@@ -21,7 +21,7 @@ tr { height: 3.5em; }
 
 tr.toprow { height: 1.5em; }
 
-tr.toprow td { border-bottom: thin solid black; }
+tr.toprow td { border-bottom: thick solid black; }
 
 td { text-align: center; }
 </style>
