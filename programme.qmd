@@ -1,5 +1,5 @@
 ---
-title: "Programme (draft)"
+title: "Programme"
 format: 
   html:
     grid:
