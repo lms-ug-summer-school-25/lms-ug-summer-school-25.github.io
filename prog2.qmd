@@ -10,7 +10,9 @@ format:
 ---
 
 
-Details still to be confirmed
+Details still to be confirmed.
+
+All classes and talks take place in the Wolfson lecture room (4W 1.7) on the lower ground floor of building 4 West.
 
 ```{=html}
 
