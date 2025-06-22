@@ -5,7 +5,8 @@ format:
     grid:
       sidebar-width: 20px
       margin-width: 20px
-    page-layout: custom
+      body-width: 1500px
+    page-layout: full
 ---
 
 
