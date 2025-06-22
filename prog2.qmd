@@ -19,11 +19,10 @@ tr
 td
 {
   text-align: center;
-  min-height: 4em;
 }
 </style>
 
-<table cellspacing=5 cellpadding=5>
+<table leftmargin=10 cellspacing=5 cellpadding=5>
 <tr>
 <td></td>
 <td>9.30-10.30</td>
@@ -51,13 +50,13 @@ td
 <td>Lunch (outlets*)</td>
 <td>Touloupou 1</td><td>Tea break</td><td>Touloupou 2</td>
 <td>Green</td><td>Dinner (Lime tree)</td>
-<td>18.30-21.30<br>Outdoor games (Medical centre sports field)</td></tr>
+<td>18.30-21.30<br>Outdoor games (Medical<br>centre sports field)</td></tr>
 
 <tr><td>Wednesday 16 July</td>
 <td>Touloupou 3</td><td>Tea break</td><td>Touloupou 4</td>
 <td>Lunch (outlets*)</td>
 <td>Touloupou 5</td><td>Tea break</td><td>Touloupou 6</td>
-<td>TBD</td><td>Pizza and board games (Claverton rooms)</td>
+<td>TBD</td><td>Pizza and board games<br>(Claverton rooms)</td>
 </tr>
 
 <tr><td>Thursday 17 July</td>
