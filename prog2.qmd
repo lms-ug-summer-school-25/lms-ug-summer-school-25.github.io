@@ -41,7 +41,7 @@ td { text-align: center; }
 <td></td></tr>
 
 <tr><td>Sunday 13 July</td>
-<td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td>
+<td></td> <td></td> <td></td> <td></td> <td colspan="2">Check-in from 15.00</td> <td></td>
 <td>Tea (4W Atrium)</td><td>Dinner (Lime tree)</td></tr>
 
 <tr><td>Monday 14 July</td>
