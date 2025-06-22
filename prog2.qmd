@@ -2,10 +2,10 @@
 title: "Programme (draft)"
 format: 
   html:
-    page-layout: custom
+    page-layout: full
     margin-width: 20px
 ---
-
+asdf
 
 Details still to be confirmed
 
