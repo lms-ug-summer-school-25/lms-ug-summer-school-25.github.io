@@ -2,10 +2,12 @@
 title: "Programme (draft)"
 format: 
   html:
+    grid:
+      sidebar-width: 20px
+      margin-width: 20px
     page-layout: full
-    margin-width: 20px
 ---
-asdf
+
 
 Details still to be confirmed
 
