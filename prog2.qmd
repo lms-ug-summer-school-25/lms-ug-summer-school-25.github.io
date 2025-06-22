@@ -15,18 +15,16 @@ Details still to be confirmed
 ```{=html}
 
 <style type="text/css">
-tr
-{
-  height: 3em;
-}
+tr { height: 3.5em; }
 
-td
-{
-  text-align: center;
-}
+tr.toprow { height: 1.5em; }
+
+tr.toprow td { border-bottom: thin solid black; }
+
+td { text-align: center; }
 </style>
 
-<table leftmargin=10 cellspacing=5 cellpadding=5>
+<table leftmargin=10 cellspacing=0 cellpadding=5>
 <tr>
 <td></td>
 <td>9.30-10.30</td>
@@ -37,7 +35,8 @@ td
 <td>14.30-15.30</td>
 <td>15.30-16.00</td>
 <td>16.15-17.15</td>
-<td>18.00-19.00</td></tr>
+<td>18.00-19.00</td>
+<td></td></tr>
 
 <tr><td>Sunday 13 July</td>
 <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td>
