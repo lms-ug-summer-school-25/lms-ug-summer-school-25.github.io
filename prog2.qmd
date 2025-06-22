@@ -3,6 +3,7 @@ title: "Programme (draft)"
 format: 
   html:
     page-layout: custom
+    margin-width: 20px
 ---
 
 
