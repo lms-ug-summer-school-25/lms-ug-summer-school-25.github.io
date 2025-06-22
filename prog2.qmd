@@ -11,7 +11,6 @@ format:
 
 
 Details still to be confirmed.
-dsaf
 
 All classes and talks take place in the Wolfson lecture room (4W 1.7) on the lower ground floor of building 4 West.
 
@@ -22,13 +21,13 @@ tr { height: 3.5em; }
 
 tr.toprow { height: 1.5em; }
 
-tr.toprow td { border-bottom: 3px solid black; }
+tr.toprow td { border-bottom: thin solid black; }
 
 td { text-align: center; }
 </style>
 
 <table leftmargin=10 cellspacing=0 cellpadding=5>
-<tr>
+<tr class="toprow">
 <td></td>
 <td>9.30-10.30</td>
 <td>10.30-11.00</td>
