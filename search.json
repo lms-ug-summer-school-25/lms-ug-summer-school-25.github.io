@@ -88,14 +88,21 @@
     "href": "local.html",
     "title": "Local information",
     "section": "",
-    "text": "Students will be provided with single en-suite accommodation on campus from Sunday 13 July (check-in from 3pm) until Friday 25 July. \nBus U1 goes from the train station to the campus. It is about a 40 minute walk (steep uphill in parts)."
+    "text": "Students will be provided with single en-suite accommodation on campus from Sunday 13 July (check-in from 3pm) until Friday 25 July."
   },
   {
     "objectID": "local.html#accommodation",
     "href": "local.html#accommodation",
     "title": "Local information",
     "section": "",
-    "text": "Students will be provided with single en-suite accommodation on campus from Sunday 13 July (check-in from 3pm) until Friday 25 July. \nBus U1 goes from the train station to the campus. It is about a 40 minute walk (steep uphill in parts)."
+    "text": "Students will be provided with single en-suite accommodation on campus from Sunday 13 July (check-in from 3pm) until Friday 25 July."
+  },
+  {
+    "objectID": "local.html#directions",
+    "href": "local.html#directions",
+    "title": "Local information",
+    "section": "Directions",
+    "text": "Directions\nCampus map\nBus U1 goes from the train station to the campus. The main bus stop (arrivals square) is close to the accommodation.\nIt is about a 40 minute walk from the station to campus (steep uphill in parts). The most convenient pedestrian entrance to the campus (reasonably close to the 4 West building, where the classes and talks take place) is at the intersection by the building labelled “The Woodlands” on the campus map."
   },
   {
     "objectID": "local.html#catering",
@@ -103,6 +110,13 @@
     "title": "Local information",
     "section": "Catering",
     "text": "Catering\nAll meals (breakfast, lunch and dinner) will be provided, starting with dinner on Sunday 13 July and ending with lunch on Friday 25 July, except for some meals at the weekend. There will also be tea, coffee and biscuit breaks during the days of teaching.\nThe campus includes a shop which will provide all additional food and any essentials."
+  },
+  {
+    "objectID": "local.html#sports-facilities",
+    "href": "local.html#sports-facilities",
+    "title": "Local information",
+    "section": "Sports facilities",
+    "text": "Sports facilities\nBath University has excellent sports facilities, which are available to you on a pay-as-you-go basis. Note that the concession rates require an NUS card."
   },
   {
     "objectID": "registration.html",
