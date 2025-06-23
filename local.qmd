@@ -7,8 +7,14 @@ title: "Local information"
 Students will be provided with single en-suite accommodation on campus from Sunday 13 July (check-in from 3pm) until Friday 25 July.
 <!--Each room will be en suite with access to a shared kitchen and communal space. All bed linen will be provided and washed weekly.-->
 
-Bus U1 goes from the train station to the campus. It is about a 40 minute walk (steep uphill in parts). 
 
+## Directions
+
+[Campus map](https://www.bath.ac.uk/publications/claverton-down-campus-map/attachments/university-campus-map.pdf)
+
+Bus U1 goes from the train station to the campus. The main bus stop (arrivals square) is close to the accommodation.
+
+It is about a [40 minute walk](https://www.google.com/maps/dir/51.377389,-2.3566945/51.3791194,-2.3287683/@51.3779515,-2.3379405,17z/data=!4m2!4m1!3e2?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D) from the station to campus (steep uphill in parts). The most convenient pedestrian entrance to the campus (reasonably close to the 4 West building, where the classes and talks take place) is at the intersection by the building labelled "The Woodlands" on the campus map.
 
 
 ## Catering
@@ -18,3 +24,7 @@ All meals (breakfast, lunch and dinner) will be provided, starting with dinner o
 There will also be tea, coffee and biscuit breaks during the days of teaching.
 
 The campus includes a shop which will provide all additional food and any essentials.
+
+## Sports facilities
+
+Bath University has excellent sports facilities, which are available to you on a [pay-as-you-go basis](https://www.teambath.com/about/prices-bookings/pay-and-play-rates/). Note that the concession rates require an NUS card.
