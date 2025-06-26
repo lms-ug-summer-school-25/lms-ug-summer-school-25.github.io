@@ -34,10 +34,10 @@ td { text-align: center; }
 <td>11.00-12.00</td>
 <td>12.00-13.30</td>
 <td>13.30-14.30</td>
-<td>14.30-15.30</td>
-<td>15.30-16.00</td>
+<td>14.30-15.00</td>
+<td>15.00-16.00</td>
 <td>16.15-17.15</td>
-<td>18.00-19.00</td>
+<td>19.15-20.00</td>
 <td></td></tr>
 
 <tr><td>Sunday 13 July</td>
@@ -55,18 +55,18 @@ td { text-align: center; }
 <td>Lunch (outlets*)</td>
 <td>Touloupou 1</td><td>Tea break</td><td>Touloupou 2</td>
 <td>Green</td><td>Dinner (Lime tree)</td>
-<td>18.30-21.30<br>Outdoor games (Medical<br>centre sports field)</td></tr>
+<td>18.00-21.00<br>Outdoor games (Medical<br>centre sports field)</td></tr>
 
 <tr><td>Wednesday 16 July</td>
 <td>Touloupou 3</td><td>Tea break</td><td>Touloupou 4</td>
 <td>Lunch (outlets*)</td>
 <td>Touloupou 5</td><td>Tea break</td><td>Touloupou 6</td>
-<td>TBD</td><td>Pizza and board games<br>(Claverton rooms)</td>
+<td>TBD</td><td>18.00-21.00<br>Pizza and board games<br>(Claverton rooms)</td>
 </tr>
 
 <tr><td>Thursday 17 July</td>
 <td>Sousi 1</td><td>Tea break</td><td>Sousi 2</td>
-<td>Lunch (4W Atrium)</td>
+<td>Lunch (outlets*)</td>
 <td>Sousi 3</td><td>Tea break</td><td>Sousi 4</td>
 <td>Tripaldi</td><td>Dinner (Lime tree)</td>
 </tr>
