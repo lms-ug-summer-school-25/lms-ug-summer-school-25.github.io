@@ -31,6 +31,22 @@ title: "Speakers"
 :::
 ::::
 
+|Ellen Luckins|[Homepage]https://sites.google.com/view/ellen-luckins/about)  | 
+|----|----|
+|Research interests:|Fluid dynamics, industrial modelling, free-boundary problems and multi-scale asymptotic methods|
+|Title:|Free boundary problems in phase-change and porous media|
+
+: {tbl-colwidths="[25,75]"}
+
+:::
+:::{.column width="5%"}
+<!-- Empty column for gap -->
+:::
+::: {.column width="25%"}
+![](EllenLuckins.jpg){width="150"}
+:::
+::::
+
 :::: {.columns}
 ::: {.column width="70%"}
 
@@ -195,7 +211,7 @@ title: "Speakers"
 
 |Euan Spence| [Homepage](https://people.bath.ac.uk/eas25/) |
 |----|----|
-|Research interests:|the interface between semiclassical analysis and numerical analysis of partial differential equations, in particular problems involving the scattering of acoustic and electromagnetic waves|
+|Research interests:|The interface between semiclassical analysis and numerical analysis of partial differential equations, in particular problems involving the scattering of acoustic and electromagnetic waves|
 |Title:|Numerical analysis of wave scattering problems|
 
 : {tbl-colwidths="[25,75]"}
