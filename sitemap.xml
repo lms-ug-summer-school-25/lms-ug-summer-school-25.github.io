@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lms-ug-summer-school-25.github.io/index.html</loc>
-    <lastmod>2025-06-26T16:51:06.429Z</lastmod>
-  </url>
-  <url>
     <loc>https://lms-ug-summer-school-25.github.io/speakers2.html</loc>
-    <lastmod>2025-06-26T16:51:06.438Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lms-ug-summer-school-25.github.io/speakers.html</loc>
-    <lastmod>2025-06-26T16:51:06.438Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lms-ug-summer-school-25.github.io/prog2.html</loc>
-    <lastmod>2025-06-26T16:51:06.432Z</lastmod>
+    <lastmod>2025-06-28T09:46:19.147Z</lastmod>
   </url>
   <url>
     <loc>https://lms-ug-summer-school-25.github.io/about.html</loc>
-    <lastmod>2025-06-26T16:51:06.406Z</lastmod>
+    <lastmod>2025-06-28T09:46:19.115Z</lastmod>
   </url>
   <url>
-    <loc>https://lms-ug-summer-school-25.github.io/local.html</loc>
-    <lastmod>2025-06-26T16:51:06.432Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lms-ug-summer-school-25.github.io/registration.html</loc>
-    <lastmod>2025-06-26T16:51:06.432Z</lastmod>
+    <loc>https://lms-ug-summer-school-25.github.io/index.html</loc>
+    <lastmod>2025-06-28T09:46:19.138Z</lastmod>
   </url>
   <url>
     <loc>https://lms-ug-summer-school-25.github.io/programme.html</loc>
-    <lastmod>2025-06-26T16:51:06.432Z</lastmod>
+    <lastmod>2025-06-28T09:46:19.141Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lms-ug-summer-school-25.github.io/registration.html</loc>
+    <lastmod>2025-06-28T09:46:19.141Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lms-ug-summer-school-25.github.io/prog2.html</loc>
+    <lastmod>2025-06-28T09:46:19.141Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lms-ug-summer-school-25.github.io/speakers.html</loc>
+    <lastmod>2025-06-28T09:46:19.147Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lms-ug-summer-school-25.github.io/local.html</loc>
+    <lastmod>2025-06-28T09:46:19.141Z</lastmod>
   </url>
 </urlset>
