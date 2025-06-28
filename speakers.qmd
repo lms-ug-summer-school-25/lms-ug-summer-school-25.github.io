@@ -12,8 +12,6 @@ title: "Speakers"
 
 
 
-:::: {.columns}
-::: {.column width="70%"}
 
 |Ailsa Keating|[Homepage](https://sites.google.com/view/ailsakeating)  | 
 |----|----|
@@ -31,7 +29,10 @@ title: "Speakers"
 :::
 ::::
 
-|Ellen Luckins|[Homepage]https://sites.google.com/view/ellen-luckins/about)  | 
+:::: {.columns}
+::: {.column width="70%"}
+
+|Ellen Luckins|[Homepage](https://sites.google.com/view/ellen-luckins/about)  | 
 |----|----|
 |Research interests:|Fluid dynamics, industrial modelling, free-boundary problems and multi-scale asymptotic methods|
 |Title:|Free boundary problems in phase-change and porous media|
