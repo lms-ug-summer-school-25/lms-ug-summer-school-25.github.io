@@ -55,7 +55,7 @@ td { text-align: center; }
 <td>Lunch (outlets*)</td>
 <td>Touloupou 1</td><td>Tea break</td><td>Touloupou 2</td>
 <td>Green</td><td>Dinner (Lime tree)</td>
-<td>18.00-21.00<br>Outdoor games (Medical<br>centre sports field)</td></tr>
+<td>17.30-20.00<br>Outdoor games (Medical<br>centre sports field)</td></tr>
 
 <tr><td>Wednesday 16 July</td>
 <td>Touloupou 3</td><td>Tea break</td><td>Touloupou 4</td>
