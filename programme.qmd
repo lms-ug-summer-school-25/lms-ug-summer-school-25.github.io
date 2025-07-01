@@ -80,7 +80,7 @@ td { text-align: center; }
 
 <tr><td>Saturday 19 July</td>
 <td></td>
-<td colspan="4">10.30-15.30<br>Excursion to Avebury</td></tr>
+<td>10.30<br>Coach departing to Avebury (from East car park)</td><td colspan="4">Visit at Avebury</td><td>15.00<br>Coach departing from Avebury</td></tr>
 </tr>
 
 <tr><td>Monday 21 July</td>
