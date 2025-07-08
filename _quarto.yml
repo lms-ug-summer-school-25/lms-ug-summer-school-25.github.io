@@ -8,7 +8,12 @@ website:
       - href: index.qmd
         text: Home
       - speakers.qmd
-      - programme.qmd
+      - text: Programme
+	menu: 
+	  - text: Programme - overview
+	    href: programme.qmd
+	  - text: Programme with abstracts
+	    href: abstracts.qmd
       - registration.qmd
       - text: Local information
         menu:
