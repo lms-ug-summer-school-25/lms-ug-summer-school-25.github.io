@@ -66,46 +66,61 @@ All classes and talks take place in the Wolfson lecture room (4W 1.7) on the low
 | 14:14 - 16:15 | Walking tour of Bath |
 | 16: 45 - 18:00< | Roman Baths |
 
-<tr><td>Saturday 19 July</td>
-<td></td>
-<td colspan="2">10.30<br>Coach departing to Avebury<br>(from East car park)</td><td colspan="3">Visit at Avebury</td><td>15.00<br>Coach departing from Avebury</td></tr>
-</tr>
+| Saturday | 19 July |
+| - | ----- |
+| 10.30 | Coach departing to Avebury (from East car park) |
+| | Visit at Avebury |
+| 15.00 | Coach departing from Avebury |
 
-<tr><td>Sunday 20 July</td>
-<td colspan="2">10.00-11.00<br>Skyline walk to Prior Park</td><td colspan="2">11.00<br>Entry to Prior Park</td></tr>
+| Sunday | 20 July |
+| -- | ----- |
+| 10:00 - 11:00< | Skyline walk to Prior Park | 
+| 11:00 | Entry to Prior Park |
+
 
 ## Week 2
 
-<tr><td>Monday 21 July</td>
-<td>Speight 1</td><td>Tea break</td><td>Speight 2</td>
-<td>Lunch (outlets*)</td>
-<td>Speight 3</td><td>Tea break</td><td>Speight 4</td>
-<td>Horton</td><td>Dinner (Lime tree)</td></tr>
+| Monday | 21 July |
+| -- | ----- |
+| 9:30 - 12:00 | Speight: Topological solitons | 
+| | Abstract: | 
+| 12:00 - 13:30 |  Lunch (outlets*) | 
+| 13:30 - 16:00 | Speight (continued) |
+| 16:15 - 17:15 | Horton: Mathematics of radiation transport | 
+| | Abstract: |
+| 19:15 - 20:00 | Dinner (Lime tree) |
 
-<tr><td>Tuesday 22 July</td>
-<td>Speight 5</td><td>Tea break</td><td>Speight 6</td>
-<td>Lunch (4W&nbsp;Atrium)</td>
-<td>Luckins 1</td><td>Tea break</td><td>Luckins 2</td>
-<td>Spence</td><td>Dinner (Lime tree)</td>
-</tr>
+| Tuesday | 22 July |
+| -- | ----- |
+| 9:30 - 12:00 | Speight (continued) | 
+| 12:00 - 13:30 | Lunch (4W&nbsp;Atrium) |
+| 13:30 - 16:00 | Luckins: Free boundary problems in phase-change and porous media | 
+| | Abstract: |
+| 16:15 - 17:15 | Spence: Numerical analysis of wave scattering problems |
+| | Abstract: |
+| 19:15 - 20:00 | Dinner (Lime tree) |
 
-<tr><td>Wednesday 23 July</td>
-<td>Luckins 3</td><td>Tea break</td><td>Luckins 4</td>
-<td>Lunch (outlets*)</td>
-<td>Luckins 5</td><td>Tea break</td><td>Luckins 6</td>
-<td>PhD student talks</td><td>Dinner (Lime tree)</td>
-</tr>
+| Wednesday | 23 July |
+| -- | ----- |
+| 9:30 - 12:00 | Luckins (continued) | 
+| 12:00 - 13:30 | Lunch (outlets*) |
+| 16:15 - 17:15 | PhD student talks |
+| 19:15 - 20:00 | Dinner (Lime tree) |
 
-<tr><td>Thursday 24 July</td>
-<td>Shelton 1</td><td>Tea break</td><td>Shelton 2</td>
-<td>Lunch (outlets*)</td>
-<td>Shelton 3</td><td>Tea break</td><td>Shelton 4</td>
-<td>Leary</td><td>Dinner (TBD)</td>
-</tr>
+| Thursday | 24 July |
+| -- | ----- |
+| 9:15 - 12:00 | Shelton: Resummation of divergent series expansions and the Stokes phenomenon |
+| | Abstract: |
+| 12:00 - 13:30 | Lunch (outlets*) |
+| 13:30 - 16:00 | Shelton (continued) |
+| 16:15 - 17:15 | Leary: Recognising contractible spaces |
+| | Abstract: |
+| 19:15 - 20:00 | Dinner (TBD) |
 
-<tr><td>Friday 25 July</td>
-<td>Shelton 5</td><td>Tea break</td><td>Shelton 6</td>
-<td>Lunch (outlets*)</td></tr>
+| Friday | 25 July |
+| -- | ----- |
+| 9:30 - 12:00 | Shelton  (continued) |
+| 12:00 - 13:30 | Lunch (outlets*) |
 
 
 * Use vouchers in any outlet on campus
