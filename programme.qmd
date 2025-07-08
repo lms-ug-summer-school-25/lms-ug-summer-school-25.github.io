@@ -10,9 +10,11 @@ format:
 ---
 
 
-Details still to be confirmed.
+Details still to be confirmed. See also the [Programme with abstracts](abstracts.qmd).
 
 All classes and talks take place in the Wolfson lecture room (4W 1.7) on the lower ground floor of building 4 West.
+See the [Campus map here](https://www.bath.ac.uk/locations/university-of-bath-claverton-down-campus/).
+
 
 ```{=html}
 
