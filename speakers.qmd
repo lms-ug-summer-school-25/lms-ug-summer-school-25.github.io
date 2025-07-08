@@ -94,7 +94,7 @@ title: "Speakers"
 |Perla Sousi| [Homepage](https://www.dpmms.cam.ac.uk/~ps422/) |
 |----|----|
 |Research interests:|Random walks, Brownian motion, mixing times of Markov chains, Poisson Brownian motions, rearrangement inequalities.|
-|Title:|TBA|
+|Title:|Random walks, electrical networks and uniform spanning trees|
 
 : {tbl-colwidths="[25,75]"}
 
