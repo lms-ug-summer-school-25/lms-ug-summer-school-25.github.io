@@ -194,7 +194,7 @@ title: "Speakers"
 |----|----|
 |Research interests:|Stochastic modelling, including branching processes, growth-fragmentation, SDEs and sequential Monte Carlo, with a particular focus on applying these to real world applications. 
 |
-|Title:|Mathematics of radiation transport|
+|Title:|Neutron transport from a probabilistic perspective|
 
 : {tbl-colwidths="[25,75]"}
 
