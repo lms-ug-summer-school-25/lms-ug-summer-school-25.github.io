@@ -7,7 +7,7 @@ tbl-colwidths: [20,80]
 
 
 All classes and talks take place in the Wolfson lecture room (4W 1.7) on the lower ground floor of building 4 West.
-See the [Campus map here](https://www.bath.ac.uk/locations/university-of-bath-claverton-down-campus/).
+See the [Campus map here](local.qmd#directions).
 See also the [Programme overview](programme.qmd).
 
 
@@ -59,8 +59,7 @@ See also the [Programme overview](programme.qmd).
 | 12:00 - 13:30 | Lunch (outlets*) |
 | 13:30 - 16:00 | Sousi (continued) |
 | 16:15 - 17:15 | Tripaldi: SubRiemannian geometry in real life: how to parallel park your car |
-| | Abstract: A nonholonomic system is a type of mechanical system that cannot move in an arbitrary direction, and is instead constrained by its physical structure and the environment. Examples of such systems include cars, rockets, and wheeled mobile robots.|
-| | In this talk, we'll explore how the constraints of nonholonomic motion shape control strategies, using the parallel parking problem as a guiding example. Along the way, we’ll see how subRiemannian geometry encodes feasible trajectories and how tools from control theory and differential geometry help us navigate this constrained world. |
+| | Abstract: A nonholonomic system is a type of mechanical system that cannot move in an arbitrary direction, and is instead constrained by its physical structure and the environment. Examples of such systems include cars, rockets, and wheeled mobile robots. <br>&nbsp; <br> In this talk, we'll explore how the constraints of nonholonomic motion shape control strategies, using the parallel parking problem as a guiding example. Along the way, we’ll see how subRiemannian geometry encodes feasible trajectories and how tools from control theory and differential geometry help us navigate this constrained world. |
 | 19:15 - 20:00 | Dinner (Lime tree) |
 
 | Friday | 18 July |

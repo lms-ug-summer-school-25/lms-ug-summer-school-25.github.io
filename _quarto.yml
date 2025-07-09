@@ -19,8 +19,14 @@ website:
         menu:
           - text: Accommodation
             href: local.qmd#accommodation
+          - text: Directions
+            href: local.qmd#directions
           - text: Catering
             href: local.qmd#catering
+          - text: Sports facilities
+            href: local.qmd#sports-facilities
+          - text: Things to do in Bath
+            href: local.qmd#things-to-do-in-bath
       - about.qmd
 
 format:
