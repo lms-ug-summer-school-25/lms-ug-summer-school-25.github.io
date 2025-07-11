@@ -10,9 +10,9 @@ format:
 ---
 
 
-Details still to be confirmed. See also the [Programme with abstracts](abstracts.qmd).
+Some details may yet change. See also the [Programme with abstracts](abstracts.qmd).
 
-All classes and talks take place in the Wolfson lecture room (4W 1.7) on the lower ground floor of building 4 West.
+With the exception of some computer labs on Wednesday 16 July, all classes and talks take place in the Wolfson lecture room (4W 1.7) on the lower ground floor of building 4 West
 See the [directions here](local.qmd#directions/).
 
 
@@ -47,7 +47,8 @@ td { text-align: center; }
 <td>Tea (4W Atrium)</td><td>Dinner (Lime tree)</td></tr>
 
 <tr><td>Monday 14 July</td>
-<td>Keating 1</td><td>Tea break</td><td>Keating 2</td>
+<td>9.15: Welcome<br>
+Keating 1</td><td>Tea break</td><td>Keating 2</td>
 <td>Lunch (4W&nbsp;Atrium)</td>
 <td>Keating 3</td><td>Tea break</td><td>Keating 4</td>
 <td>Lawson</td><td>Dinner (Lime tree)</td></tr>
@@ -105,14 +106,14 @@ td { text-align: center; }
 <td>Luckins 3</td><td>Tea break</td><td>Luckins 4</td>
 <td>Lunch (outlets*)</td>
 <td>Luckins 5</td><td>Tea break</td><td>Luckins 6</td>
-<td>PhD student talks</td><td>Dinner (Lime tree)</td>
+<td>PhD student talks</td><td>Dinner (Lime tree)</td><td>20.15-21.30<br>Film screening:<i>N is a number</i></td>
 </tr>
 
 <tr><td>Thursday 24 July</td>
 <td>Shelton 1</td><td>Tea break</td><td>Shelton 2</td>
 <td>Lunch (outlets*)</td>
 <td>Shelton 3</td><td>Tea break</td><td>Shelton 4</td>
-<td>Leary</td><td>Dinner (TBD)</td>
+<td>Leary</td><td>Dinner (Pearl of India)</td>
 </tr>
 
 <tr><td>Friday 25 July</td>
