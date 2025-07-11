@@ -50,11 +50,11 @@ td { text-align: center; }
 <td>9.15: Welcome<br>
 Keating 1</td><td>Tea break</td><td>Keating 2</td>
 <td>Lunch (4W&nbsp;Atrium)</td>
-<td>Keating 3</td><td>Tea break</td><td>Keating 4</td>
+<td>Keating 3<br>(problem class)</td><td>Tea break</td><td>Keating 4</td>
 <td>Lawson</td><td>Dinner (Lime tree)</td></tr>
 
 <tr><td>Tuesday 15 July</td>
-<td>Keating 5</td><td>Tea break</td><td>Keating 6</td>
+<td>Keating 5</td><td>Tea break</td><td>Keating 6<br>(problem class)</td>
 <td>Lunch (outlets*)</td>
 <td>Touloupou&nbsp;1</td><td>Tea break</td><td>Touloupou&nbsp;2</td>
 <td>Green</td><td>Dinner (Lime tree)</td>
