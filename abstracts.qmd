@@ -1,4 +1,4 @@
----
+cept for some co---
 title: "Programme with abstracts"
 format: html
 tbl-colwidths: [20,80]
@@ -6,7 +6,7 @@ tbl-colwidths: [20,80]
 
 
 
-All classes and talks take place in the Wolfson lecture room (4W 1.7) on the lower ground floor of building 4 West.
+All classes and talks take place in the Wolfson lecture room (4W 1.7) on the lower ground floor of building 4 West, except for some computer labs.
 See the [Campus map here](local.qmd#directions).
 See also the [Programme overview](programme.qmd).
 
@@ -49,6 +49,7 @@ See also the [Programme overview](programme.qmd).
 | 9:30 - 12:00 | Touloupou (continued) |
 | 12:00 - 13:30 | Lunch (outlets*) |
 | 13:30 - 16:00 | Touloupou (continued) |
+| | Computer lab (CB 5.13) |
 | 16:15 - 17:15 | TBD |
 | 18:00-21:00 | Pizza and board games (Claverton rooms, upstairs in 2W) |
 
