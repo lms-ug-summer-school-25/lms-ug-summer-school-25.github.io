@@ -23,7 +23,7 @@ See also the [Programme overview](programme.qmd).
 | Monday | 14 July |
 | -- | ----- |
 | 9:30 - 12:00 | Keating: Knot theory, knot practice | 
-| | Abstract: |
+| | Abstract: Knot theory is a vibrant area of modern mathematics; it has a rich history, and far-fetching connections, many of them to other areas of science. This mini-course will provide an introduction to the subject from a mathematician's perspective. We will start with some basic definitions and properties. We will then explore, first, some links with low-dimensional topology; and second, connections with algebra. We will emphasise examples throughout. |
 | 12:00 - 13:30 | Lunch (atrium) |
 | 13:30 - 16:00 | Keating (continued) |
 | 16:15 - 17:15 | Lawson: Information in large data: Lessons from population genomics on relating mathematical models to algorithmic scaling|
