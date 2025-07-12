@@ -1,0 +1,24 @@
+---
+title: "R and RStudio "
+format: html
+tbl-colwidths: [20,80]
+---
+
+
+R and RStudio will be used for some of the tutorials at the LMS Summer School. We aim to arrange the work in groups so that those who have less experience of R work together with someone with more experience.
+
+If you are attending the summer schoo in person then you should be able to access the software in a computer lab. If you are attending remotely, then please make sure that you have these two software packages installed on your personal computer. Please see below for installation instructions. 
+
+## What are R and RStudio 
+
+[R](https://www.r-project.org/) is a programming language for data analysis. It is a free software developed mainly by the "R Development Core Team", but with code contributed by many volunteers. It is the leading programming language among academic statisticians, but it is also used extensively in industry. R benefits from a large ecosystem of packages implementing the latest research and from a strong community support. 
+
+[RStudio](https://posit.co/products/open-source/rstudio) is an integrated development environment (IDE) for R (and Python). If you are a beginner R user, then it is a great environment to use, as it offers a rich set of features to help you get going. 
+
+## Installing R 
+
+Please download R from [here](https://cran.r-project.org/). The top of the web page provides three links for downloading R. Follow the link that corresponds to your operating system: Linux, Mac, or Windows. 
+
+## Installing RStudio 
+
+Please download RStudio from [here](https://posit.co/download/rstudio-desktop). Scroll to the middle of the page and find the version that corresponds to your operating system. 
