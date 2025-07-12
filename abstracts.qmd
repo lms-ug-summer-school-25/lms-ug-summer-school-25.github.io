@@ -38,7 +38,7 @@ See also the [Programme overview](programme.qmd).
 | 9:30 - 12:00 | Keating (continued) |
 | 12:00 - 13:30 | Lunch (outlets*) |
 | 13:30 - 16:00 | Touloupou: Statistical inference for epidemic models |
-| | Abstract: |
+| | Abstract: This mini-course introduces the mathematical and statistical foundations of epidemic modeling, focusing on stochastic discrete-time models such as the SIS and the SIR frameworks. Students will learn how to represent disease spread using compartmental models, simulate epidemic dynamics using probabilistic transitions, and estimate key parameters like transmission and recovery rates from complete data. The course covers both likelihood-based and Bayesian inference methods, with hands-on implementation in R. By the end, students will be equipped to build, simulate, and fit simple epidemic models and understand their role in real-world public health analysis. |
 | 16:15 - 17:15 | Green: Fourier analysis in additive number theory, and its generalisations | 
 | | Abstract: Fourier analysis arose historically from questions in applied mathematics, but it has also been very successful at studying pure mathematical problems, for instance to do with representing numbers as sums of squares or sums of primes. I will discuss this a little bit, and then move on to give a hint of more recent developments in which Fourier analysis has been generalised in order to attack problems that the classical theory was unable to handle. |
 | 17.30-19.45 | Outdoor games (Medical centre sports field) <br>&nbsp;<br>The student union have kindly loaned us a variety of games for us to use on the lacrosse pitch to the south of 10W. (Note that while we have the sports pitch booked until 8pm, our dinner at the Lime tree is also only served until 8pm.) |
