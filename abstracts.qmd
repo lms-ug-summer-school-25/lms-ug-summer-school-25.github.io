@@ -122,7 +122,8 @@ See also the [Programme overview](programme.qmd).
 | Thursday | 24 July |
 | -- | ----- |
 | 9:15 - 12:00 | Shelton: Resummation of divergent series expansions and the Stokes phenomenon |
-| | Abstract: |
+| | Abstract: Asymptotic methods are widely used across mathematics, physics, and engineering to find solutions to differential equations that lack exact closed-form solutions. In these, approximate solutions are sought under the limit as certain parameters of the system become small (or large). Well-known examples are the limit of vanishing viscosity in fluid dynamics (large Reynolds number) under which boundary layers and hydrodynamic instabilities emerge, and the limit of small Planck constant in theoretical physics. A distinguishing feature of these expansions is that they typically diverge. Divergent expansions may at first seem unusual in comparison to convergent series, which most undergraduate students are well accustomed with. However, in practice, divergent expansions can significantly outperform their convergent counterparts; often, only a few terms from a divergent expansion are needed to outperform thousands from a convergent expansion. Thus, their study continues to be an active area of research in mathematics.<br>&nbsp;<br>
+In this course, we will resolve many of the issues that arise with divergent series expansions (mainly the Stokes phenomenon), both by series resummation and optimal truncation of the full asymptotic transseries. The techniques developed will first be applied to the example studied by G.G. Stokes in his pioneering work: Airy's equation, which is a linear differential equation. We will then proceed to find asymptotic solutions to a nonlinear example from fluid dynamics, the fifth-order KdV equation. |
 | 12:00 - 13:30 | Lunch (outlets*) |
 | 13:30 - 16:00 | Shelton (continued) |
 | 16:15 - 17:15 | Leary: Recognising contractible spaces |
