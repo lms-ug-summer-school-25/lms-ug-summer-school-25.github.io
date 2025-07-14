@@ -14,7 +14,9 @@ tbl-colwidths: [20,80]
 
 **Materials**
 
-* [Problem Sheet 1](course_materials/KTKP%20ES1.pdf)
+* [Problem Sheet 1 (updated version)](course_materials/KTKP%20ES1v2.pdf)
+* [Problem Sheet 2](course_materials/KTKP%20ES2.pdf)
+
 
 
 
