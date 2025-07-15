@@ -63,8 +63,8 @@ Keating 1</td><td>Tea break</td><td>Keating 2</td>
 <tr><td>Wednesday 16 July</td>
 <td>Touloupou&nbsp;3</td><td>Tea break</td><td>Touloupou&nbsp;4</td>
 <td>Lunch (outlets*)</td>
-<td>Touloupou&nbsp;5</td><td>Tea break</td><td>Touloupou 6</td>
-<td>TBD</td><td>18.00-21.00<br>Pizza and board games<br>(Claverton rooms)</td>
+<td colspan="2">13:30-15:45<br>Touloupou&nbsp;5+6<br>Computer lab in CB 5.13</td><td>15:45-16:15<br>Tea break (4W)</td>
+<td>Careers talk</td><td>18.00-21.00<br>Pizza and board games<br>(Claverton rooms)</td>
 </tr>
 
 <tr><td>Thursday 17 July</td>
