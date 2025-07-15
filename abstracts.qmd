@@ -50,9 +50,10 @@ See also the [Programme overview](programme.qmd).
 | - | ----- |
 | 9:30 - 12:00 | Touloupou (continued) |
 | 12:00 - 13:30 | Lunch (outlets*) |
-| 13:30 - 16:00 | Touloupou (continued) |
+| 13:30 - 15:45 | Touloupou (continued) |
 | | Computer lab (CB 5.13), using [R](R.qmd) |
-| 16:15 - 17:15 | TBD |
+| 16:15 - 17:15 | Phil Trink: The next step: PhDs and/or industry |
+| | In this talk, I will describe the UK PhD landscape and pursuing a mathematics PhD. I’ll describe the interview process for a typical PhD studentship and the decision-making process. I’ll give some tips and tricks on the application process. Finally, I’ll discuss the interesting careers you can pursue, with and without a PhD, outside of academia. |
 | 18:00-21:00 | Pizza and board games (Claverton rooms, upstairs in 2W) |
 
 | Thursday | 17 July | 
