@@ -18,11 +18,15 @@ tbl-colwidths: [20,80]
 * [Problem Sheet 2 (updated version) ](course_materials/KTKP%20ES2v2.pdf)
 
 
-
-
 ### Touloupou: Statistical inference for epidemic models 
 
 **Abstract:** This mini-course introduces the mathematical and statistical foundations of epidemic modeling, focusing on stochastic discrete-time models such as the SIS and the SIR frameworks. Students will learn how to represent disease spread using compartmental models, simulate epidemic dynamics using probabilistic transitions, and estimate key parameters like transmission and recovery rates from complete data. The course covers both likelihood-based and Bayesian inference methods, with hands-on implementation in R. By the end, students will be equipped to build, simulate, and fit simple epidemic models and understand their role in real-world public health analysis. 
+
+**Materials**
+
+* [Lecture slides](course_materials/Notes_EpidemicModels.pdf)
+* [Tutorial instructions](course_materials/Tutorial_SIS.pdf)
+* [R code for tutorial](course_materials/Tutorial_SIScode.R)
 
 ### Sousi: Random walks, electrical networks and uniform spanning trees 
 
