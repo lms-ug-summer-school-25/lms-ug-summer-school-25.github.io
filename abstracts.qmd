@@ -108,7 +108,7 @@ See also the [Programme overview](programme.qmd).
 | 13:30 - 16:00 | Luckins: Free boundary problems in phase-change and porous media | 
 | | Abstract: Many examples of partial-differential-equation (PDE) models that you will have encountered in your degree so far are posed on prescribed domains. A free-boundary problem is a PDE model posed on a domain where at least part of the boundary moves, and where the position and speed of the moving boundary must be determined as part of the model solution. Free-boundary problems are more complicated to solve and analyse mathematically due to their inherent nonlinearity, and are particularly tricky in scenarios where the free-boundary becomes unstable, but they are crucial to understand as they appear in many important real-world problems. In this minicourse, we will explore two classical examples of free-boundary problems: (i) melting/freezing problems and (ii) fluid flows in porous media, and discuss their modern applications in modelling sea ice, heat batteries, metallurgy, and carbon sequestration. |
 | 16:15 - 17:15 | Spence: Numerical analysis of wave scattering problems |
-| | Abstract: |
+| | Abstract: Solving high-frequency wave-scattering problems in an accurate, efficient, and reliable way is a longstanding open problem in numerical analysis. Perhaps surprisingly, the numerical analysis of high-frequency wave problems has traditionally not taken advantage of the tools and techniques from the PDE theory of high-frequency waves. This talk will give an example of how these PDE tools and techniques can be used in a striking way in the numerical analysis of high-frequency waves. |
 | 19:15 - 20:00 | Dinner (Lime tree) |
 
 | Wednesday | 23 July |
