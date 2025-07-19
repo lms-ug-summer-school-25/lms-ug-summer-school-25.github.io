@@ -87,7 +87,7 @@ Keating 1</td><td>Tea break</td><td>Keating 2</td>
 </tr>
 
 <tr><td>Sunday 20 July</td>
-<td colspan="2">10.00-11.00<br>Skyline walk to Prior Park</td><td colspan="2">11.00<br>Entry to Prior Park</td></tr>
+<td colspan="2">10.00-11.45<br>Skyline walk to Prior Park</td><td colspan="2">11.00<br>Entry to Prior Park</td></tr>
 
 <tr><td>Monday 21 July</td>
 <td>Speight 1</td><td>Tea break</td><td>Speight 2</td>
