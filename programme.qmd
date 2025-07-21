@@ -92,7 +92,7 @@ Keating 1</td><td>Tea break</td><td>Keating 2</td>
 <tr><td>Monday 21 July</td>
 <td>Speight 1</td><td>Tea break</td><td>Speight 2</td>
 <td>Lunch (outlets*)</td>
-<td>Speight 3</td><td>Tea break</td><td>Speight 4</td>
+<td>Speight 3</td><td>Tea break</td><td>Speight 4<br>(Problem class)</td>
 <td>Horton</td><td>Dinner (Lime tree)</td></tr>
 
 <tr><td>Tuesday 22 July</td>
@@ -113,7 +113,7 @@ Keating 1</td><td>Tea break</td><td>Keating 2</td>
 <td>Shelton 1</td><td>Tea break</td><td>Shelton 2</td>
 <td>Lunch (outlets*)</td>
 <td>Shelton 3</td><td>Tea break</td><td>Shelton 4</td>
-<td>Leary</td><td>Dinner (Pearl of India)</td>
+<td>Leary</td><td>18:30<br>Dinner (Pearl of India)</td>
 </tr>
 
 <tr><td>Friday 25 July</td>
