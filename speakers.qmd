@@ -232,7 +232,7 @@ title: "Speakers"
 |Ian Leary| [Homepage](https://www.southampton.ac.uk/people/5x7v5y/professor-ian-leary) |
 |----|----|
 |Research interests:|Geometric group theory, cohomology of groups, classifying spaces for families of subgroups|
-|Title:|Recognising contractible spaces|
+|Title:| Decision problems in topology |
 
 : {tbl-colwidths="[25,75]"}
 
