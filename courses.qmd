@@ -47,6 +47,7 @@ tbl-colwidths: [20,80]
 **Materials**
 
 * [Handout](course_materials/solitons.pdf) with course outline and exercises
+* [Handwritten lecture notes and further materials](https://cp1lump.github.io/lectures/index.html)
 
 ### Luckins: Free boundary problems in phase-change and porous media 
 
