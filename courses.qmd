@@ -56,8 +56,8 @@ tbl-colwidths: [20,80]
 
 **Materials**
 
-* [Problem Sheet 1](course_materials/Free-boundary_problems_exercises1.pdf)
-* [Problem Sheet 2](course_materials/Free-boundary_problems_exercises2.pdf)
+* [Problem Sheet 1 (updated)](course_materials/Free-boundary_problems_exercises1v2.pdf)
+* [Problem Sheet 2 (updated)](course_materials/Free-boundary_problems_exercises2v2.pdf)
 
 ### Shelton: Resummation of divergent series expansions and the Stokes phenomenon 
 
